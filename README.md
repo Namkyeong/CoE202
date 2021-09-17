@@ -9,7 +9,7 @@ Why Recommendation?
 - To **discover which things go together**
 - To **personalize user experiences** in response to user feedback
 
-With recommendation system, we aim to **model people's preferences, opinions, and behaviors**.
+With recommendation system, we aim to <span style="color:red">**model people's preferences, opinions, and behaviors**</span>.
 
 Below slides are for setting colab in the class.  
 For more large images, please refer to `introduction.pdf`.
