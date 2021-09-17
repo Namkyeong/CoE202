@@ -1,5 +1,5 @@
 # CoE202
-Lab session materials for CoE202 in KAIST.
+This repository contains lab session materials for **CoE202** in KAIST.
 
 <kbd>
     <img src="img/slide_1.JPG" width="700px"></img>
