@@ -11,7 +11,8 @@ Why Recommendation?
 
 With recommendation system, we aim to **model people's preferences, opinions, and behaviors**.
 
-Below slides are for setting colab in the class.
+Below slides are for setting colab in the class.  
+For more large images, please refer to `introduction.pdf`.
 
 <kbd>
     <img src="img/slide_1.JPG" width="700px"></img>
